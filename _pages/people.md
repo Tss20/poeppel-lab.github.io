@@ -36,53 +36,6 @@ New York University<br>
   <td style='width:15%'>
   <!-- <img> -->
   </td>
-  <td> <b>Ellie Abrams</b> – PhD candidate @ NYU 2020– <br>
-  <tt>ellie.abrams (at) nyu.edu</tt><br>
-  <a href='https://scholar.google.com/citations?user=581Iq4cAAAAJ'><i class='ai ai-google-scholar ai-2x'></i></a>
-    </td>
-</tr>
-<tr>
-  <td style='width:15%'>
-  <!-- <img> -->
-  </td>
-  <td> <b>Phoebe Chen</b> – PhD candidate @ NYU 2020– <br>
-  <tt>hc2896 (at) nyu.edu</tt><br>
-  <a href='https://scholar.google.com/citations?user=YItDCZQAAAAJ'><i class='ai ai-google-scholar ai-2x'></i></a>
-  <a href='https://phoebechen.info'><i class='fa fa-house fa-xl' style='vertical-align: 0.15em !important;'></i></a>
-    </td>
-</tr>
-<tr>
-  <td style='width:15%'>
-  <!-- <img> -->
-  </td>
-  <td> <b>Martina Vilas</b> – PhD candidate @ ESI 2021– <br>
-  <tt>martina.vilas (at) esi-frankfurt.de</tt><br>
-  <a href='https://scholar.google.com/citations?user=X_n9NsAAAAAJ'><i class='ai ai-google-scholar ai-2x'></i></a>
-  <a href='https://martinagvilas.github.io/'><i class='fa fa-house fa-xl' style='vertical-align: 0.15em !important;'></i></a>
-    </td>
-</tr>
-<tr>
-  <td style='width:15%'>
-  <!-- <img> -->
-  </td>
-  <td> <b>Berfin Baştuğ</b> – PhD candidate @ ESI 2023– <br>
-  <tt>berfin.bastug (at) esi-frankfurt.de</tt><br>
-  <a href='https://scholar.google.com/citations?user=KPsr5qgAAAAJ'><i class='ai ai-google-scholar ai-2x'></i></a>
-    </td>
-</tr>
-<tr>
-  <td style='width:15%'>
-  <!-- <img> -->
-  </td>
-  <td> <b>Leonardo Zeine</b> – PhD candidate @ ESI 2023– <br>
-  <tt>leonardo.zeine (at) esi-frankfurt.de</tt><br>
-  <a href='https://scholar.google.com/citations?user=WOD5SBMAAAAJ'><i class='ai ai-google-scholar ai-2x'></i></a>
-    </td>
-</tr>
-<tr>
-  <td style='width:15%'>
-  <!-- <img> -->
-  </td>
   <td> <b>Chenghao Zhou</b> – PhD candidate @ NYU 2025– <br>
   <tt>chenghao.zhou (at) nyu.edu</tt><br>
   <a href='https://scholar.google.com/citations?user=RTCfEgwAAAAJ'><i class='ai ai-google-scholar ai-2x'></i></a>
