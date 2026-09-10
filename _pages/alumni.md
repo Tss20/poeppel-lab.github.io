@@ -184,8 +184,6 @@ redirect_from:
   now: Science Administration<br>
     </td>
 </tr>
-
-
 </table>
 
 
@@ -375,9 +373,6 @@ redirect_from:
   <td> <b>Fade Chen</b> – PhD candidate (2020-) <br>
     </td>
 </tr>
-<tr>
-  <td style='width:15%'>
-  </td>
 
 
 
