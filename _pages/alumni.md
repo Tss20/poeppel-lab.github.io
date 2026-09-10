@@ -184,6 +184,7 @@ redirect_from:
   now: Science Administration<br>
     </td>
 </tr>
+
 </table>
 
 
@@ -373,6 +374,18 @@ redirect_from:
   <td> <b>Fade Chen</b> – PhD candidate (2020-) <br>
     </td>
 </tr>
+<tr>
+  <td style='width:15%'>
+  </td>
+  <td> <b>Andrew Chang</b> – Postdoc @ NYU 2020– <br>
+    </td>
+</tr>
+<tr>
+  <td style='width:15%'>
+  </td>
+  <td> <b>Guilhem Marion</b> – Postdoc @ NYU 2024– <br>
+    </td>
+</tr>
 
 
 
@@ -473,6 +486,73 @@ redirect_from:
   <td style='width:15%'>
   </td>
   <td> <b>Leonardo Zeine</b> – PhD candidate (2023-) <br>
+    </td>
+</tr>
+<tr>
+  <td style='width:15%'>
+  </td>
+  <td> <b>Ann-Joelle Friedl</b> – Research Assistant (2023-)– <br>
+    </td>
+</tr>
+<tr>
+  <td style='width:15%'>
+  </td>
+  <td> <b>Sean Lee</b> – Research Scientist (2022-)– <br>
+    </td>
+</tr>
+<tr>
+  <td style='width:15%'>
+  </td>
+  <td> <b>Tracia Webster-Kreis</b> – Research Staff (2023-)– <br>
+    </td>
+</tr>
+
+<tr>
+  <td style='width:15%'>
+  </td>
+  <td> <b>Federico Adolfi</b> – Postdoc (2021-)– <br>
+    </td>
+</tr>
+<tr>
+  <td style='width:15%'>
+  </td>
+  <td> <b>Peter Donhauser</b> – Postdoc (2021-)– <br>
+    </td>
+</tr>
+<tr>
+  <td style='width:15%'>
+  </td>
+  <td> <b>Francisco García-Rosales</b> – Postdoc (2022-)– <br>
+    </td>
+</tr>
+<tr>
+  <td style='width:15%'>
+  </td>
+  <td> <b>Matthias Grabenhorst</b> – Postdoc (2023-)– <br>
+    </td>
+</tr>
+<tr>
+  <td style='width:15%'>
+  </td>
+  <td> <b>Saskia Helbling</b> – Postdoc (2021-)– <br>
+    </td>
+</tr>
+<tr>
+  <td style='width:15%'>
+  </td>
+  <td> <b>Natalie Schaworonkow</b> – Postdoc (2021-)– <br>
+    </td>
+</tr>
+<tr>
+  <td style='width:15%'>
+  </td>
+  <td> <b>Yue Sun</b> – Postdoc (2022-)– <br>
+    </td>
+</tr>
+<tr>
+  <td style='width:15%'>
+  </td>
+  <td> <b>Jiajie Zou</b> – Postdoc (2024-)– <br>
     </td>
 </tr>
 
