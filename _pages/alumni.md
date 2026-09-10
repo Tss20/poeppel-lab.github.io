@@ -462,6 +462,7 @@ redirect_from:
   now: Postdoc, Ernst Strüngmann Institute.<br>
     </td>
 </tr>
+</tr>
   <td> <b>Martina Vilas</b> – PhD candidate (2021-) <br>
     </td>
 </tr>
