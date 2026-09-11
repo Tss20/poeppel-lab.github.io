@@ -377,13 +377,13 @@ redirect_from:
 <tr>
   <td style='width:15%'>
   </td>
-  <td> <b>Andrew Chang</b> – Postdoc @ NYU 2020– <br>
+  <td> <b>Andrew Chang</b> – Postdoc (2020-)– <br>
     </td>
 </tr>
 <tr>
   <td style='width:15%'>
   </td>
-  <td> <b>Guilhem Marion</b> – Postdoc @ NYU 2024– <br>
+  <td> <b>Guilhem Marion</b> – Postdoc (2024-)– <br>
     </td>
 </tr>
 
