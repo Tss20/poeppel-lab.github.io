@@ -41,7 +41,14 @@ New York University<br>
   <a href='https://scholar.google.com/citations?user=RTCfEgwAAAAJ'><i class='ai ai-google-scholar ai-2x'></i></a>
     </td>
 </tr>
-
+<tr>
+  <td style='width:15%'>
+  <!-- <img> -->
+  </td>
+  <td> <b>Xinran Liu</b> – PhD candidate @ NYU 2026– <br>
+  <tt>xl2926 (at) nyu.edu</tt><br>
+    </td>
+</tr>
 </table>
 
 ### Postdocs
@@ -73,7 +80,14 @@ New York University<br>
 ### Staff
 
 <table>
-
+<tr>
+  <td style='width:15%'>
+  <!-- <img> -->
+  </td>
+  <td> <b>Tara Sarma</b> – Lab Associate @ NYU 2026– <br>
+  <tt>ts5933 (at) nyu.edu</tt><br>
+    </td>
+</tr>
 
 
 </table>
