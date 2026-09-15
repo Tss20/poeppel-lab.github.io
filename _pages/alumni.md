@@ -386,6 +386,13 @@ redirect_from:
   <td> <b>Guilhem Marion</b> – Postdoc (2024-)– <br>
     </td>
 </tr>
+<tr>
+  <td style='width:15%'>
+  </td>
+  <td> <b>Claire Pelofi</b> – Postdoc (2020-2026)– <br>
+  now: Visiting Assistant Professor in the Music Technology Program at NYU Steinhardt
+    </td>
+</tr>
 
 
 
