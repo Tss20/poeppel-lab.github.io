@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## From vibrations in the ear to abstractions in the brain
-**This website is old. Please go to [this site](https://wp.nyu.edu/poeppellab) for the more up to date website.** 
+**This website is old. Please go to [this site](https://wp.nyu.edu/poeppellab) for the more up-to-date website.** 
 
 We pursue research that aims to be theoretically motivated, computationally explicit, and biologically realistic, focusing typically on auditory perception, speech perception, language comprehension, music processing.
 
