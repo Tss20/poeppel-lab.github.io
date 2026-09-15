@@ -65,15 +65,6 @@ New York University<br>
   <a href='https://cascoopmans.github.io'><i class='fa fa-house fa-xl' style='vertical-align: 0.15em !important;'></i></a>
     </td>
 </tr>
-<tr>
-  <td style='width:15%'>
-  <!-- <img> -->
-  </td>
-  <td> <b>Claire Pelofi</b> – Postdoc @ NYU 2020– <br>
-  <tt>cp2830 (at) nyu.edu</tt><br>
-  <a href='https://scholar.google.com/citations?user=AN_eilsAAAAJ'><i class='ai ai-google-scholar ai-2x'></i></a>
-    </td>
-</tr>
 
 </table>
 
